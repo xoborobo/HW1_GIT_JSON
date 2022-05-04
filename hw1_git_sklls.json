@@ -1,0 +1,112 @@
+{
+  "skills": [
+    {
+      "title": "basic_theory",
+      "description": "Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п. SDLC, STLC."
+    },
+    {
+      "title": "client_server_architecture",
+      "description": "Что такое клиент-серверная архитектура"
+    },
+    {
+      "title": "http_methods",
+      "description": "HTTP Методы запросов на сервер"
+    },
+    {
+      "title": "http_status_codes",
+      "description": "Коды ответов HTTP сервера"
+    },
+    {
+      "title": "http_structures",
+      "description": "Структуры HTTP запросов и ответов"
+    },
+    {
+      "title": "json_xml",
+      "description": "Что такое JSON, XML. Их структура"
+    },
+    {
+      "title": "api_tesing",
+      "description": "Тестирование API через Postman - JS, автотесты API"
+    },
+    {
+      "title": "logs",
+      "description": "Снятие и чтение логов c внешнего сервера"
+    },
+    {
+      "title": "sniffing",
+      "description": "Сниффинг http web трафика через Charles и Fiddler"
+    },
+    {
+      "title": "DevTools",
+      "description": "Dev Tools веб браузеров Google Chrome, FireFox"
+    },
+    {
+      "title": "VPN",
+      "description": "Как работает, зачем нужен, как использовать, варианты инструментов"
+    },
+    {
+      "title": "mobile testing",
+      "description": "Мобильное тестирование"
+    },
+    {
+      "title": "mobile_os_features",
+      "description": "Особенность iOS, Android, гайдлайны"
+    },
+    {
+      "title": "XCode",
+      "description": "Сборка iOS приложений на XCode"
+    },
+    {
+      "title": "building_android_apps",
+      "description": "Сборка Android приложений на Android Studio"
+    },
+    {
+      "title": "ADB",
+      "description": "Управление андройд девайсами"
+    },
+    {
+      "title": "mobile_proxy_vpn",
+      "description": "Настройка прокси и vpn на iOS и Android"
+    },
+    {
+      "title": "mobile_traffic_sniffing",
+      "description": "Перехват мобильного трафика через Charles и Fiddler на iOS и Android"
+    },
+    {
+      "title": "terminal_Linux",
+      "description": "Командная строка terminal Linux: копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса"
+    },
+    {
+      "title": "Bash_scripting_basics",
+      "description": "Основы bash скриптинг, автоматизация рутинных задач на сервере"
+    },
+    {
+      "title": "remote_servers",
+      "description": "Доступ к удалённым серверам"
+    },
+    {
+      "title": "SQL_basics",
+      "description": "Основы SQL: Create, Delete, Drop, Insert Into, Select, From, Where, Join"
+    },
+    {
+      "title": "postgres_bd",
+      "description": "База данных Postgres - установка, настройка и использование"
+    },
+    {
+      "title": "Redis_bd",
+      "description": "Нереляционная база данных Redis: установка, настройка и использование"
+    },
+    {
+      "title": "Jmeter",
+      "description": "Нагрузочное тестирование в Jmeter"
+    },
+    {
+      "title": "Scrum",
+      "description": "Методология разработки Scrum"
+    },
+    {
+      "title": "Python_basics",
+      "description": "Python. Изучение основ. Создание клиент серверного приложения"
+    }
+  ]
+}
