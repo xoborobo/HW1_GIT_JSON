@@ -1,1 +1,25 @@
-
+{
+  "bug_123" : {
+    "summary": "Не открывается форма регистрации",
+    "project": "store front",
+    "component": "registration form",
+    "version": "1.1",
+    "severity": "Critical",
+    "priority": "High",
+    "status": "New",
+    "author": "Xbrb",
+    "assigned_to": "Nick",
+    "environment": "MacOs Monterey 12.2.1, Chrome 100.0.4896.127",
+    "reproduce_steps": [
+      {"step_number":  "1",
+        "description": "Открыть главную страницу сайта"
+      },
+      {"step_number": "2",
+      "description":  "В хедере кликнуть на кнопку Регистрация"
+      }
+    ],
+    "actual_result": "Форма регистрации/входа не открывается,  в devTools получаем ошибку 500: internal server error",
+    "expected_result": "Открывается форма регистрации/входа",
+    "attachment": "file DT_reg_form_1.jpg"
+  }
+}
