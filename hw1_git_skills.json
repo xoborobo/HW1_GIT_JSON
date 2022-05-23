@@ -2,7 +2,7 @@
   "skills": [
     {
       "title": "basic_theory",
-      "description": "Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п. SDLC, STLC."
+      "description": "Что такое тестирование, баг-репорты, документация, виды, методы, направления тестирования и т.п. SDLC, STLC."
     },
     {
       "title": "client_server_architecture",
@@ -25,7 +25,7 @@
       "description": "Что такое JSON, XML. Их структура"
     },
     {
-      "title": "api_tesing",
+      "title": "api_testing",
       "description": "Тестирование API через Postman - JS, автотесты API"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "title": "ADB",
-      "description": "Управление андройд девайсами"
+      "description": "Управление андроид девайсами"
     },
     {
       "title": "mobile_proxy_vpn",
